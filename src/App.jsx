@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import FunctionalComp from './functionalcomp'
-import ClassComp from './classcomp'
+import FunctionalComp from './FunctionalCompunctionalcomp'
+import ClassComp from './ClassComplasscomp'
 import LifecycleExample from './LifecycleExample'
 
 function App() {
