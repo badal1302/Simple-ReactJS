@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import FunctionalComp from './FunctionalComp'
-import ClassComp from './ClassComplasscomp'
+import ClassComp from './ClassComp'
 import LifecycleExample from './LifecycleExample'
 
 function App() {
