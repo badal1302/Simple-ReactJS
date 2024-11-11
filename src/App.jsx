@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import FunctionalComp from './FunctionalCompunctionalcomp'
+import FunctionalComp from './FunctionalComp'
 import ClassComp from './ClassComplasscomp'
 import LifecycleExample from './LifecycleExample'
 
